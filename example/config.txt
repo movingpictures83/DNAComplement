@@ -1,0 +1,2 @@
+Prefix plugins/DNAComplement/example/
+Plugin DNAComplement inputfile sequence.fasta outputfile sequence.complement.fasta
